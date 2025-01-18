@@ -1,7 +1,0 @@
-{
-  "name": "m3u-device-limit",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "vercel dev"
-  }
-}
